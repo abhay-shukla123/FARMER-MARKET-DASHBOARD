@@ -30,7 +30,7 @@ The Farmer Market Dashboard is a **data analysis and visualization project** des
 ![Sales Trend]()
 
 ### Top Products & Quantity Analysis
-![Top Products](screenshots/top_products.png)
+![Top Products](QuantityWiseAnalysis.png)
 
 *Note: Replace the paths (`screenshots/filename.png`) with your actual screenshot file paths.*
 
