@@ -27,7 +27,7 @@ The Farmer Market Dashboard is a **data analysis and visualization project** des
 ![Dashboard Overview](Quantity&SalesWiseAnalysis.png)
 
 ### Sales Trend Analysis
-![Sales Trend]()
+![Sales Trend](SalesWiseAnalysis.png)
 
 ### Top Products & Quantity Analysis
 ![Top Products](QuantityWiseAnalysis.png)
